@@ -1,0 +1,5 @@
+# Afficher le bon langage
+*.pl linguist-language=Prolog
+# Erreur de detection de langage
+special-vendored-path/* linguist-vendored
+perl.pl linguist-vendored=false
